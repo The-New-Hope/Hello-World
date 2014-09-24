@@ -1,4 +1,5 @@
 Hello-World
 ===========
 
-My first repository
+My first repository 
+I am learning GitHub!
